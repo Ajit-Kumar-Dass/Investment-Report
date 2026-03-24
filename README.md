@@ -51,11 +51,6 @@ I used regular DAX for most calculations (XIRR was a lifesaver for irregular cas
 The model is pretty simple: transactions → holdings → measures → visuals.  
 Feel free to rip apart the DAX, add new pages, or change colors — it's all yours to mess with.
 
-### Want to help or tweak it?
-
-If something looks off, calculations seem wrong, or you'd like to see support for crypto / fixed deposits / real estate — just open an issue or drop a pull request. I'd actually love to see how others adapt it.
-
-MIT license — do whatever you want with it.
 
 Made with ☕ by **Ajit Kumar Dass**
 
